@@ -155,7 +155,7 @@ These measures enable dynamic analysis and interactive filtering.
 
 ![Categories Dashboard](images/Category.png)
 
-### Product_Performance Dashboard
+### Product Performance Dashboard
 
 ![Product Performance Dashboard](images/Product_Performance.png)
 
