@@ -129,43 +129,43 @@ These measures enable dynamic analysis and interactive filtering.
 
 ### Home Dashboard
 
-![Home Dashboard](images/Home.PNG)
+![Home Dashboard](images/Home.png)
 
 ### Overview Dashboard
 
-![Overview Dashboard](images/Overview.PNG)
+![Overview Dashboard](images/Overview.png)
 
 ### Sales Dashboard
 
-![Sales Dashboard](images/Sales.PNG)
+![Sales Dashboard](images/Sales.png)
 
 ### Orders Dashboard
 
-![Orders Dashboard](images/Orders.PNG)
+![Orders Dashboard](images/Orders.png)
 
 ### Shipping Dashboard
 
-![Shipping Dashboard](images/Shipping.PNG)
+![Shipping Dashboard](images/Shipping.png)
 
 ### Suppliers Dashboard
 
-![Suppliers Dashboard](images/Suppliers.PNG)
+![Suppliers Dashboard](images/Suppliers.png)
 
 ### Categories Dashboard
 
-![Categories Dashboard](images/Category.PNG)
+![Categories Dashboard](images/Category.png)
 
 ### Product_Performance Dashboard
 
-![Product Performance Dashboard](images/Product_Performance.PNG)
+![Product Performance Dashboard](images/Product_Performance.png)
 
 ### Customers Insights Dashboard
 
-![Customers Insights Dashboard](images/Customers_Insights.PNG)
+![Customers Insights Dashboard](images/Customers_Insights.png)
 
 ### Customers Details Dashboard
 
-![Customers Details Dashboard](images/Customers_Details.PNG)
+![Customers Details Dashboard](images/Customers_Details.png)
 
 ---
 
